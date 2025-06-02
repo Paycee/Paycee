@@ -25,5 +25,5 @@ Let's connect and collaborate on something great!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavlemilenovic&show_icons=true&theme=radical" alt="Pavle's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paycee&show_icons=true&theme=radical" alt="Pavle's GitHub stats" />
 </p>
