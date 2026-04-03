@@ -1,6 +1,6 @@
 # Hi there, I'm Pavle 👋
 
-I'm a second-year student at the Faculty of Electrical Engineering, University of Belgrade, passionate about programming, web development, and building real-world projects.
+I'm a third-year student at the Faculty of Electrical Engineering, University of Belgrade, passionate about programming, web development, and building real-world projects.
 
 ### 💻 What I work with:
 - **HTML & CSS**: Strong frontend skills for creating responsive, clean web interfaces.
